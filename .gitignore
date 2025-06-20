@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# API clients or generated code (optional)
+.fetch-client/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# OS/system files
+.DS_Store
